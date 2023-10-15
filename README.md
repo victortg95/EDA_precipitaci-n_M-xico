@@ -1,16 +1,16 @@
-# Estructura de repositorio
+# Análisis Exploratorio de Precipitación en México
 
-El objetivo de este repositorio es implementar las buenas prácticas de acuerdo al paper ["Good Enough Practices in Scientific Computing"](https://arxiv.org/abs/1609.00037) por Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal.
+El objetivo de este repositorio es realizar un análisis exploratorio de datos recopilados por **CONAGUA** acerca de precipitación acumula en México por entidad federativa que data de 1985 hasta 2022.
 
-La estructura que queremos que tenga este repositorio es la siguiente:
+La estructura de este repositorio es la siguiente:
 
     ├── LICENSE           <- MIT License.  
     |  
-    ├── README.md         <- Main Readme file with the description of the project.  
+    ├── README.md         <- Descripción del proyecto.
     |  
-    ├── CONTRIBUTING.md   <- Steps yo contribute to the project.  
+    ├── CONTRIBUTING.md   <- Contribuciones al proyecto.
     |  
-    ├── CITATION.md       <- Way to cite the project.  
+    ├── CITATION.md       <- Cómo citar este proyecto.  
     |  
     ├── data              <- Original data bases.  
     |  
@@ -18,4 +18,6 @@ La estructura que queremos que tenga este repositorio es la siguiente:
     |  
     ├── results           <- Clean and analyzes data bases.  
     |  
-    └── src               <- Coding files.  
+    └── src               <- Coding files.
+
+Para contactar al autor de este repositorio contactar a través de correo: victor.tellez8034@alumnos.udg.mx
