@@ -12,6 +12,6 @@ Se realizó un gráfico sobre la precipitación promedio mensual donde se puede 
 
 ![](https://github.com/victortg95/EDA_precipitacion_Mexico/blob/main/results/precipitacion_avg_mensual.png)
 
-El desarrollo de este proyecto se puede encontrar en el [Jupyter Notebook](https://github.com/victortg95/EDA_precipitacion_Mexico/blob/main/EDA_precipitacion_Mexico.ipynb) que trabajé.
+El desarrollo de este proyecto se puede encontrar en el [Jupyter Notebook](src/EDA_precipitacion_Mexico.ipynb) que trabajé.
 
 Para contactar al autor de este repositorio contactar a través de correo: victor.tellez8034@alumnos.udg.mx
